@@ -36,7 +36,7 @@ int main()
         c[i]=a[i]+b[i];
     }
      
-     printf("the total is ");
+     printf("the total is \n");
     
       for( int i = 0; i < size; i++)
     {
